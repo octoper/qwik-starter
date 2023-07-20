@@ -1,5 +1,5 @@
 {
-  "name": "my-qwik-basic-starter",
+  "name": "my-opinionated-qwik-starter",
   "description": "App with Routing built-in (recommended)",
   "engines": {
     "node": ">=15.0.0"
@@ -23,8 +23,8 @@
   },
   "devDependencies": {
     "@builder.io/partytown": "^0.8.0",
-    "@builder.io/qwik": "0.104.0",
-    "@builder.io/qwik-city": "~0.104.0",
+    "@builder.io/qwik": "^1.0.0",
+    "@builder.io/qwik-city": "~1.0.0",
     "@playwright/test": "^1.33.0",
     "@types/eslint": "8.37.0",
     "@types/node": "^18.16.1",
